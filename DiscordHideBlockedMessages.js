@@ -1,4 +1,4 @@
-//META{"name":"HideBlockedMessages","description":"Hides blocked messages.","author":"Nos","version":"1.0","website":"https://discord.gg/Wre2C4H","source":"https://github.com/IAmNotNos/DiscordHideBlockedMessages/blob/master/HideBlockedMessages.js"}*//
+//META{"name":"DiscordHideBlockedMessages","description":"Hides blocked messages.","author":"Nos","version":"1.0","website":"https://discord.gg/Wre2C4H","source":"https://github.com/IAmNotNos/DiscordHideBlockedMessages/blob/master/DiscordHideBlockedMessages.js"}*//
 
 // Description: This script hides the "Hides blocked messages." div.
 
