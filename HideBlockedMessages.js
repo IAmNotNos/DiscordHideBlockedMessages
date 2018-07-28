@@ -1,4 +1,4 @@
-/META{"name":"HideBlockedMessages","description":"Hides blocked messages.","author":"Nos","version":"1.0","website":"https://discord.gg/Wre2C4H"}*//{}
+//META{"name":"HideBlockedMessages","description":"Hides blocked messages.","author":"Nos","version":"1.0","website":"https://discord.gg/Wre2C4H"}*//{}
 
 @import url(https://github.com/IAmNotNos/DiscordHideBlockedMessages/blob/master/HideBlockedMessages.js);
 
