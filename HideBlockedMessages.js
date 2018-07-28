@@ -1,6 +1,6 @@
 /META{"name":"HideBlockedMessages","description":"Hides blocked messages.","author":"Nos","version":"1.0","website":"https://discord.gg/Wre2C4H"}*//{}
 
-@import url(https://satoru8.github.io/CleanDark/CleanDark.css);
+@import url(https://github.com/IAmNotNos/DiscordHideBlockedMessages/blob/master/HideBlockedMessages.js);
 
 // Description: This script hides the "Hides blocked messages." div.
 
